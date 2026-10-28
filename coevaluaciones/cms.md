@@ -4,7 +4,7 @@ Un **CMS** (*Content Management System*) es una aplicación de software que perm
 
 ## ¿Cómo funciona?
 El CMS separa el contenido (guardado en una base de datos) de la presentación (plantillas visuales). Cuando un usuario visita una página web, el CMS extrae los datos de la base de datos y los inyecta en la plantilla en tiempo real.
-
+##YA LO HE EDITADO PESADO
 
 ## Tipos de CMS y Ejemplos
 Existen varios enfoques a la hora de estructurar un CMS:
